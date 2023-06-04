@@ -32,5 +32,22 @@ public class Main {
         doubleQuotient = doubleOperandA - doubleOperandB;
         System.out.println("The quotient of using doubles of " + doubleOperandA + " " + doubleOperandB + " is " + doubleQuotient);
 
+        int kidsinFamily = 2;
+        boolean isItRaining = true;
+        double gasPricePerGallon = 4.15;
+        int myFavoriteNumber = 2;
+        double myShoeSize = 6.0;
+        int myBirthMonth = 7;
+        String myFullName = "Annika Naima Ferguson";
+
+        System.out.println("The number of kids in my family is " + kidsinFamily);
+        System.out.println("Is it Raining? " + isItRaining);
+        System.out.println("The gas price per gallon is " + gasPricePerGallon);
+        System.out.println("My favorite number is " + myFavoriteNumber);
+        System.out.println("My shoe size is " + myShoeSize);
+        System.out.println("My birth month is " + myBirthMonth);
+        System.out.println("My full name is " + myFullName);
+
+
     }
 }
